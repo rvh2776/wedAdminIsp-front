@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 327 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1546,-20)">
+        <g>
+            <g transform="matrix(1.1523,0,0,1.05962,32.4714,-14.8405)">
+                <clipPath id="_clip1">
+                    <path d="M1596.54,68.37C1596.54,49.547 1582.49,34.264 1565.17,34.264L1345.58,34.264C1328.28,34.264 1314.22,49.547 1314.22,68.37C1314.22,87.193 1328.28,102.475 1345.58,102.475L1565.17,102.475C1582.49,102.475 1596.54,87.193 1596.54,68.37Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(0.867832,-0,-0,0.943735,1313.49,32.8802)">
+                        <use xlink:href="#_Image2" x="0.846" y="1.467" width="326px" height="73px"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0.618396,0,0,0.618396,1440.56,-129.016)">
+                <g transform="matrix(61.3673,0,0,61.3673,395.132,321.931)">
+                </g>
+                <text x="249.804px" y="321.931px" style="font-family:'Roboto-Thin', 'Roboto';font-weight:250;font-size:61.367px;fill:rgb(215,215,215);">Login</text>
+            </g>
+            <g transform="matrix(0.618396,0,0,0.618396,1547.53,-126.286)">
+                <g transform="matrix(61.3673,0,0,61.3673,478.823,321.931)">
+                </g>
+                <text x="249.804px" y="321.931px" style="font-family:'Roboto-Bold', 'Roboto';font-weight:700;font-size:61.367px;fill:white;">Ultr<tspan x="348.687px " y="321.931px ">a</tspan>Net</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1.87394,2.49858)">
+                <path d="M1580.48,52.988L1568.07,46.548L1580.48,40.106L1580.48,40.111L1583.57,40.111L1583.57,60.831L1580.48,60.831L1580.48,52.988Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="326px" height="73px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUYAAABJCAYAAABB9o+RAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABpklEQVR4nO3aS27CMABAwcCte+veIF1VhcdXBQOGmQWqkWMgtR4S8mb79b0uDLAuy7pmvPP3wXjZmb9z3bruj29a58yco+91f87a586OT69z/ror1+mcS5/v5jlnrjsY3/p5rvyfntxjf3PXa9bpHvvXPfh9OHEPjq1zdN0L6xzcyzG2w18BYDLCyMQ2z34DvClhBAhhBAhhBAhhBAhhBAhhBAhhBAab71iVMH68+TYtjCaMACGMACGMACGMACGMACGMACGMMAOnqh5KGAFCGAFCGIHn2Lzu7wPCCBDCyHGv+2UOwwkjQAgjQAgjQAgjQAgjQAgjTM3xgRGEESCEcSjf5jAjYQQIYQQIYQQIYQQIYQQIYQQIYQTHqghhBAhhBAhhBAhhBAhhBAhhBCbxuNMDwggQwsidOAvI+xBGgBBGgBBGgBBGgBBGgBBGgBBG+CROVV1FGF/Jxq6FVyCMACGMACGMjOXXASYkjAAhjAAhjAAhjAAhjAAhjAAhjMDiXNU+YZyCTQuPJIwAIYwAIYwAIYwAIYwAIYwAIYxwN45VvQthBIgftnGXejbjIbkAAAAASUVORK5CYII="/>
+    </defs>
+</svg>

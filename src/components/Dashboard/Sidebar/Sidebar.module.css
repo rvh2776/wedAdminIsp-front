@@ -1,0 +1,9 @@
+.background {
+    background-image: linear-gradient(rgba(11, 36, 71, 1), rgba(13, 43, 70, 0.95), rgba(59, 131, 195, 0.95)), url(../../../../pics/BotonTestVelocidad.svg);
+
+}
+
+.darkBackground {
+    background-image: linear-gradient(rgb(17, 24, 39), rgba(22, 29, 39, 0.97), rgba(107, 115, 126, 0.95)), url(../../../../pics/BotonTestVelocidad.svg);
+}
+

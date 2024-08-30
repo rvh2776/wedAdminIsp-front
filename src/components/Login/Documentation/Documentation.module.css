@@ -1,0 +1,7 @@
+.imageBackground {
+    background: linear-gradient(0deg, rgba(32, 32, 32, 0.7), rgba(3, 161, 224, 0.8)), url('../../../../pics/test1.svg');
+    background-size: contain;
+    background-attachment: fixed;
+    filter: brightness(1);
+    overflow: auto;
+  }

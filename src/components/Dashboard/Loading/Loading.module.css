@@ -1,0 +1,39 @@
+.iconoImage {
+    position: fixed;
+    top: 40%;
+    left: 47%;
+    width: 120px;
+    pointer-events: none;
+    z-index: 999;
+    filter: contrast(0);
+    transition: opacity 25s ease-in-out, transform 5s ease-in-out;
+    animation: iconoImage-spin 3s linear forwards, linear 4s forwards;
+    transform-style: preserve-3d;
+  }
+  
+  @keyframes iconoImage-spin {
+    0% {
+        transform: translateY(-100vh) rotateY(0deg) rotate(-1.5deg); 
+    }
+    20% {
+        transform: translateY(0) rotateY(0deg) scale(1) rotate(-1.5deg);
+        opacity: 0.7;
+    }
+    40% {
+        transform: translateY(0) rotateY(360deg) scale(1.4) rotate(-1.5deg);
+        opacity: 0.55;
+    }
+    60% {
+        transform: translateY(0) rotateY(0deg) scale(1.7) rotate(-1.5deg);
+        opacity: 0.35;
+    }
+    80% {
+        transform: translateY(0) rotateY(360deg) scale(2) rotate(-1.5deg);
+        opacity: 0.2;
+    }
+    100% {
+      transform: translateY(0) rotateY(0deg) scale(3) rotate(-1.5deg);
+      opacity: 0.1;
+    }
+  }
+  

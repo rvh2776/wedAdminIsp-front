@@ -1,0 +1,12 @@
+.rightComponent {
+    flex: 1;
+    padding: 2%;
+    margin-top: 0;
+    text-align: -webkit-center;
+    background: linear-gradient(0deg, rgba(32, 32, 32, 0.7), rgba(3, 161, 224, 0.8)), url('../../../pics/imagenEmpresa.svg');
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(1);
+    height: 100svh;
+    overflow: auto;
+  }
