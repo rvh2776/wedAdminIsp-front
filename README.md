@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# WebAdminISP Frontend
 
-## Getting Started
+## Descripción
 
-First, run the development server:
+Este repositorio contiene el código y los recursos relacionados con la interfaz de usuario y la lógica del lado del cliente de la aplicación WebAdminISP.<br> 
+La aplicación está construida utilizando React y Next.js.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tecnologías Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- React
+- Next.js
+- Axios (para llamadas a la API)
+- Redux (para gestión del estado)
+- Styled-components (para estilos)
+- Otros paquetes y librerías relevantes
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Configuración del Entorno
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Requisitos
 
-## Learn More
+- Node.js (versión 14.x o superior)
+- npm o yarn
 
-To learn more about Next.js, take a look at the following resources:
+### Instalación
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clona el repositorio:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    ```bash
+   git clone https://github.com/WebAdminISP/frontend.git
+   cd frontend
+    ```
 
-## Deploy on Vercel
+2. Instala las dependencias:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    ```bash
+    npm install
+    # o
+    yarn install
+    ```
+3. Crea un archivo .env en la raíz del proyecto con las siguientes variables de entorno:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    ```bash
+    APP_API_URL=http://localhost:3000
+    ```
+
+4. Inicia la aplicación:
+
+    ```bash
+    npm run dev
+    # o
+    yarn dev
+    ```
+
+### Scripts Disponibles
+* **npm run dev:** Inicia la aplicación en modo de desarrollo.
+* **npm run build:** Construye la aplicación para producción.
+* **npm run start:** Inicia la aplicación en modo de producción.
+* **npm run lint:** Ejecuta el linter para revisar el código.
+
+<br>
+
+---
+
+### Comenzar a trabajar
+
+1. Crea una nueva rama para tu funcionalidad o corrección de errores:
+
+    ```bash
+    git checkout -b feature/nombre # O nombre de la nueva funcionalidad
+    ```
+
+2. Realiza tus cambios y haz commit:
+
+    ```bash
+    git add .
+    git commit -m "Descripción de los cambios"
+    ```
+
+3. Envía tus cambios a la rama remota:
+
+    ```bash
+    git push origin feature/nombre # O nombre de la nueva funcionalidad
+    ```
+
+4. Abre un Pull Request en GitHub.
+
+
+
+---
+
+### <font color='lime'><p align="center">Integrantes del equipo frontend.</p></font>
+<p align="center">Jose Andres Borrero Labrador - <b>Front End</b></p>
+<p align="center">Carlos Manuel Olivera Mispireta - <b>Front End</b></p>
+<p align="center">Joaquin Noe Ibañez Aro - <b>Front End</b></p>
