@@ -10,7 +10,6 @@ La aplicación está construida utilizando React y Next.js.
 - React
 - Next.js
 - Axios (para llamadas a la API)
-- Redux (para gestión del estado)
 - Styled-components (para estilos)
 - Otros paquetes y librerías relevantes
 
@@ -18,7 +17,7 @@ La aplicación está construida utilizando React y Next.js.
 
 ### Requisitos
 
-- Node.js (versión 14.x o superior)
+- Node.js (versión 18.x o superior)
 - npm o yarn
 
 ### Instalación
@@ -26,7 +25,7 @@ La aplicación está construida utilizando React y Next.js.
 1. Clona el repositorio:
 
     ```bash
-   git clone https://github.com/WebAdminISP/frontend.git
+   git clone git@github.com:rvh2776/wedAdminIsp-front.git
    cd frontend
     ```
 
@@ -40,7 +39,7 @@ La aplicación está construida utilizando React y Next.js.
 3. Crea un archivo .env en la raíz del proyecto con las siguientes variables de entorno:
 
     ```bash
-    APP_API_URL=http://localhost:3000
+    APP_API_URL=URL_SERVER_API
     ```
 
 4. Inicia la aplicación:
